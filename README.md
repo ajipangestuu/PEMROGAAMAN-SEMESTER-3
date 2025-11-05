@@ -1,5 +1,11 @@
 # PEMROGAMAN-3
 
+<<<<<<< HEAD
+=======
+<p align="center">
+  <img src="banner.png" width="80%" alt="Banner PEMROGAMAN-3">
+</p>
+>>>>>>> c576d0fa8c3d72299727054bf102d00ab8e43b1a
 
 
 Repositori ini berisi kumpulan materi, latihan, dan proyek pemrograman Java selama perkuliahan **Pemrograman 3**.  
