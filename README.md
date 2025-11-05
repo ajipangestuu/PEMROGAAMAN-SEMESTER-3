@@ -1,5 +1,10 @@
 # PEMROGAMAN-3
 
+<p align="center">
+  <img src="banner.png" width="80%" alt="Banner PEMROGAMAN-3">
+</p>
+
+
 Repositori ini berisi kumpulan materi, latihan, dan proyek pemrograman Java selama perkuliahan **Pemrograman 3**.  
 Struktur folder disusun berdasarkan jenis kegiatan pembelajaran seperti **Latihan**, **Tugas**, **UTS**, **UAS**, **UPM**, dan **Project Besar**.
 
